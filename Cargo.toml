@@ -1,0 +1,8 @@
+[package]
+name = "dirs-cross-compat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+directories = "6.0.0"
+dirs = "7.0.0"
